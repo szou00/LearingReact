@@ -1,2 +1,2 @@
-# LearingReact
-Learning how to use react! This folder will store the contents as I continue to learn about it. 
+# Learning
+This folder will essentially be documenting my progress as I continue to explore the world of coding. I'm currently working on building apps with React :). Feel free to join me in on this journey!
